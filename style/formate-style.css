@@ -1,0 +1,70 @@
+.black-link:hover{
+    color:rgb(9, 255, 0);
+    text-decoration:underline;
+}
+.nike-p{
+        font-weight: bold;
+        font-style:normal;
+
+        margin-bottom:1px;
+        font-size:25px;
+    }
+    .paisa-p{
+        
+        font-style:normal;
+        color:rgb(4, 172, 10);
+       
+        font-size:20px;
+    }
+    .free-p{
+        
+        color:rgb(0, 0, 0);
+        
+        font-size:20px;
+    }
+    .add-button{
+        background-color:rgb(247, 205, 69);
+        color:rgb(11, 1, 1);
+        border-color:rgb(247, 205,69);
+        border-style:solid;
+        height:36px;
+        border-radius:15px;
+        width:150px;
+        cursor:pointer;
+        border-width:1px;
+        font-size:14px;
+        
+    }
+
+    .add-button:hover{
+        opacity:0.8;
+        
+    }
+    .add-button:active{
+        
+        
+        border-radius:20px;
+    }
+    .buy-button{
+            background-color:rgb(255, 164, 28);
+            color:rgb(11, 1, 1);
+            border-color:rgb(255, 164,28);
+            border-style:solid;
+            height:36px;
+            border-radius:15px;
+            width:150px;
+            cursor:pointer;
+            border-width:1px;
+            font-size:14px;
+            
+        }
+    
+    .buy-button:hover{
+        opacity:0.8;
+        
+    }
+    .buy-button:active{
+        
+        
+        border-radius:20px;
+    }
